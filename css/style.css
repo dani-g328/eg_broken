@@ -1,6 +1,6 @@
 /*--Remember the cascade: Later styles override earlier ones and more specific styles override more general ones.--*/
 body {
-  color: Blue;
+  color: #444;
   font-size: 16px;
   font-family: 'Gentium Book Basic', serif;
 }
@@ -8,12 +8,12 @@ p {
   margin-bottom: .67em;
 }
 nav, footer {
-  background-color: #187FE7;
+  background-color: #444;
 }
 footer {
   text-align: center;
   padding: 1em 0 .3em 0;
-  color: #187FE7;
+  color: #D0D0D0;
 }
 /*-- Main Menu Styles--*/
 nav ul {
@@ -21,15 +21,15 @@ nav ul {
   padding: 1em;
 }
 nav a:link, nav a:visited {
-  color: #E78018;
+  color: #D0D0D0;
   text-decoration: none;
 }
 nav a:hover, nav a:active  {
-  color: ##FED191;
+  color: #F0F0F0;
   text-decoration: underline;
 }
 nav a.active {
-  color: #E78018;
+  color: #F0F0F0;
 }
 /*-- Hero Unit Styles--*/
 header {
@@ -66,10 +66,10 @@ article figcaption {
   width: 96%;
 }
 a.button {
-  border: 1px solid #91BEFE;
+  border: 1px solid #888;
   padding: .4em 1em .4em 1em;
   text-decoration: none;
-  color: #91BEFE;
+  color: #888;
   border-radius: 200px;
   font-family: 'Lato', sans-serif;
   font-weight: 300;
