@@ -21,7 +21,7 @@ nav ul {
   padding: 1em;
 }
 nav a:link, nav a:visited {
-  color: #D0D0D0;
+  color: #FFFFFF;
   text-decoration: none;
 }
 nav a:hover, nav a:active  {
@@ -78,7 +78,7 @@ a.button {
 a.button:hover, a.button:active {
   border: 1px solid #444;
   text-decoration: none;
-  color: #222;
+  color: #F9C784;
 }
 /*-- changes header and article width on small screens --*/
 @media screen and (max-width: 768px) {
