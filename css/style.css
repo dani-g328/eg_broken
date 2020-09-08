@@ -8,12 +8,12 @@ p {
   margin-bottom: .67em;
 }
 nav, footer {
-  background-color: #444;
+  background-color: ##187FE7;
 }
 footer {
   text-align: center;
   padding: 1em 0 .3em 0;
-  color: #D0D0D0;
+  color: ##187FE7;
 }
 /*-- Main Menu Styles--*/
 nav ul {
@@ -21,15 +21,15 @@ nav ul {
   padding: 1em;
 }
 nav a:link, nav a:visited {
-  color: #D0D0D0;
+  color: ##E78018;
   text-decoration: none;
 }
 nav a:hover, nav a:active  {
-  color: #F0F0F0;
+  color: ##FED191;
   text-decoration: underline;
 }
 nav a.active {
-  color: #F0F0F0;
+  color: ##E78018;
 }
 /*-- Hero Unit Styles--*/
 header {
@@ -66,10 +66,10 @@ article figcaption {
   width: 96%;
 }
 a.button {
-  border: 1px solid #888;
+  border: 1px solid ##91BEFE;
   padding: .4em 1em .4em 1em;
   text-decoration: none;
-  color: #888;
+  color: ##91BEFE;
   border-radius: 200px;
   font-family: 'Lato', sans-serif;
   font-weight: 300;
