@@ -8,12 +8,12 @@ p {
   margin-bottom: .67em;
 }
 nav, footer {
-  background-color: #444;
+  background-color: #4E598C;
 }
 footer {
   text-align: center;
   padding: 1em 0 .3em 0;
-  color: #D0D0D0;
+  color: #4E598C;
 }
 /*-- Main Menu Styles--*/
 nav ul {
