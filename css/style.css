@@ -1,6 +1,6 @@
 /*--Remember the cascade: Later styles override earlier ones and more specific styles override more general ones.--*/
 body {
-  color: Red;
+  color: Blue;
   font-size: 16px;
   font-family: 'Gentium Book Basic', serif;
 }
@@ -8,7 +8,7 @@ p {
   margin-bottom: .67em;
 }
 nav, footer {
-  background-color: #187FE7;
+  background-color: orange;
 }
 footer {
   text-align: center;
