@@ -1,11 +1,14 @@
 /*--Remember the cascade: Later styles override earlier ones and more specific styles override more general ones.--*/
 body {
-  color: #93A8AC;
+  color: #444;
   font-size: 16px;
   font-family: 'Gentium Book Basic', serif;
 }
 p {
   margin-bottom: .67em;
+}
+body {
+  background-color: #93A8AC;
 }
 nav, footer {
   background-color: #4E598C;
