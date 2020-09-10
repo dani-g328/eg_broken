@@ -20,7 +20,8 @@ footer {
 }
 /*-- Main Menu Styles--*/
 nav ul {
-  text-align: center; justify-content: space-between;
+  text-align: center;
+  justify-content: space-between;
   list-style: none;
   padding: 1em;
 }
