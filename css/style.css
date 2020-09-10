@@ -20,9 +20,9 @@ footer {
 }
 /*-- Main Menu Styles--*/
 nav ul {
-  text-align: center;
+  text-align: justify;
   justify-content: space-between;
-  list-style: square;
+  list-style: none;
   padding: 1em;
 }
 nav a:link, nav a:visited {
