@@ -22,7 +22,7 @@ footer {
 nav ul {
   text-align: center;
   justify-content: space-between;
-  list-style: none;
+  list-style: square;
   padding: 1em;
 }
 nav a:link, nav a:visited {
@@ -44,9 +44,8 @@ header {
   margin-bottom: 2em;
 }
 header img {
-  image-orientation: right;
   width: 100%;
-  margin: 0 auto;
+  margin: auto;
 }
 header h1 {
   margin: 0 auto;
