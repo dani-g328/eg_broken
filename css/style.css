@@ -20,10 +20,10 @@ footer {
 }
 /*-- Main Menu Styles--*/
 nav ul {
-  text-align: justify;
+  text-align: center;
   justify-content: space-between;
   list-style: none;
-  padding: 1em;
+  padding: 1em 0 .3em 0;
 }
 nav a:link, nav a:visited {
   color: #FFFFFF;
