@@ -67,6 +67,8 @@ article {
 article figure {
   width: 39%;
   float: right;
+  margin-left: auto;
+  margin-right: auto;
 }
 article figcaption {
   width: 500px;
