@@ -38,7 +38,7 @@ nav a.active {
 }
 /*-- Hero Unit Styles--*/
 header {
-
+  text-align: center;
   width: 510px;
   margin-top: 2em;
   margin-bottom: 2em;
