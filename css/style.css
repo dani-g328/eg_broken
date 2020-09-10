@@ -23,7 +23,7 @@ nav ul {
   text-align: center;
   justify-content: space-between;
   list-style: none;
-  padding: 1em 0 .3em 0;
+  padding: inherit;
 }
 nav a:link, nav a:visited {
   color: #FFFFFF;
