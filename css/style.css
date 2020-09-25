@@ -60,12 +60,6 @@ header h1 {
 }
 /*-- Article Styles--*/
 article {
-  width: 800px
-  font-size: 20px
-  margin-left: auto;
-  margin-right: auto;
-}
-article {
   width: 800px;
   font-size: 18px;
   line-height: 1.3;
